@@ -5,8 +5,9 @@ Version 1.0
 This dataset is based on the dataset provided by Smartlab [1], available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 ==================================================================
 
-This dataset contains 3 files:
+This dataset contains 4 files:
 
+- run_analysis.R: The code that cleaned the data
 - tidy-dataset.txt: which contains the averages of all the mean and std columns from the orignal dataset, grouped by Subject and Activity
 - CodeBook.md: declares the variables and data in more detail
 - README.md
